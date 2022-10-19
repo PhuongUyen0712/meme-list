@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PhuongUyen0712/meme-list/static/css/main.8418ef67.css",
+    "main.js": "/PhuongUyen0712/meme-list/static/js/main.8acc9c6b.js",
+    "index.html": "/PhuongUyen0712/meme-list/index.html",
+    "main.8418ef67.css.map": "/PhuongUyen0712/meme-list/static/css/main.8418ef67.css.map",
+    "main.8acc9c6b.js.map": "/PhuongUyen0712/meme-list/static/js/main.8acc9c6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8418ef67.css",
+    "static/js/main.8acc9c6b.js"
+  ]
+}
